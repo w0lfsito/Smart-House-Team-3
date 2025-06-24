@@ -1,0 +1,6 @@
+### Requerimientos Importantes ########
+Instalar librerias principales
+  socket, threading, json, tkinter, PIL, cv2, serial, time
+
+Arduino UNO
+

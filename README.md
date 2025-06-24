@@ -2,3 +2,15 @@
 Este README incluye el proceso y guia para poder ejecutar el programa basado en tkinter, usando librerias de arduino y sockets para crear una conexion cliente/servidor
 de una casa con sensores incluidos los cuales son representados en el programa.
 # Inicializar Programa
+Abrir un cmd en la direccion de la carpeta con todo el contenido.
+1.- Abrir el servidor.py y establecer la direccion IP del servidor, y su puerto.
+![image](https://github.com/user-attachments/assets/c57f31f4-b144-4b24-aa02-173f2623e97f)
+2.- Abrir el cliente.py y establecer la misma direccion IP y puerto. (LINEA 277)
+![image](https://github.com/user-attachments/assets/19578994-1e2a-485b-925c-43b662c583db)
+
+3.- Encontrar la carpeta donde esta todo el programa
+![image](https://github.com/user-attachments/assets/ab9be7d0-9a73-4d66-9fd6-7a7769a3f56a)
+4.- Click en la barra donde esta la direccion de las carpetas, escribir cmd y dar enter.
+![image](https://github.com/user-attachments/assets/6cac8cc1-79f9-4f68-a6bf-be1166b0cf88)
+5.- Escribir python servidor.py o python cliente.py para ejecutar cliente o servidor.
+

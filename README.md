@@ -1,6 +1,10 @@
 # Smart-House-Team-3
 Este README incluye el proceso y guia para poder ejecutar el programa basado en tkinter, usando librerias de arduino y sockets para crear una conexion cliente/servidor
 de una casa con sensores incluidos los cuales son representados en el programa.
+
+Actualizacion y envio de datos cada 1 segundo
+# Arduino
+Para este paso simplemente se debe ir a la carpeta de "./Sensores/Sensores.ino", abrir y enviarle el codigo al arduino.
 # Inicializar Programa
 Abrir un cmd en la direccion de la carpeta con todo el contenido.
 1.- Abrir el servidor.py y establecer la direccion IP del servidor, y su puerto.

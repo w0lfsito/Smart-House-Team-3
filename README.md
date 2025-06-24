@@ -13,4 +13,13 @@ Abrir un cmd en la direccion de la carpeta con todo el contenido.
 4.- Click en la barra donde esta la direccion de las carpetas, escribir cmd y dar enter.
 ![image](https://github.com/user-attachments/assets/6cac8cc1-79f9-4f68-a6bf-be1166b0cf88)
 5.- Escribir python servidor.py o python cliente.py para ejecutar cliente o servidor.
+![image](https://github.com/user-attachments/assets/28881467-8fa6-4892-be46-648d262b7e62)
+
+------- Vista del programa ---------
+![image](https://github.com/user-attachments/assets/ea7f50e0-b91b-4c9f-9acb-d5d07ff6dbbb)
+-------- Para moverse entre pisos y ver refencias usar la pestana de "Vista" Arriba a la izquierda ---------------
+![image](https://github.com/user-attachments/assets/108939bf-08c0-4a36-8df6-583b21e5a990)
+
+
+
 

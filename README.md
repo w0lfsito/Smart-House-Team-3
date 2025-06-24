@@ -3,6 +3,10 @@ Este README incluye el proceso y guia para poder ejecutar el programa basado en 
 de una casa con sensores incluidos los cuales son representados en el programa.
 
 Actualizacion y envio de datos cada 1 segundo
+
+#Equipo 
+![image](https://github.com/user-attachments/assets/7fae23bf-98e1-4b58-b83e-d9227997946f)
+
 # Arduino
 Para este paso simplemente se debe ir a la carpeta de "./Sensores/Sensores.ino", abrir y enviarle el codigo al arduino.
 # Inicializar Programa

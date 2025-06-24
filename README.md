@@ -9,6 +9,7 @@ Para este paso simplemente se debe ir a la carpeta de "./Sensores/Sensores.ino",
 Abrir un cmd en la direccion de la carpeta con todo el contenido.
 1.- Abrir el servidor.py y establecer la direccion IP del servidor, y su puerto.
 ![image](https://github.com/user-attachments/assets/c57f31f4-b144-4b24-aa02-173f2623e97f)
+
 2.- Abrir el cliente.py y establecer la misma direccion IP y puerto. (LINEA 277)
 ![image](https://github.com/user-attachments/assets/19578994-1e2a-485b-925c-43b662c583db)
 
